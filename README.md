@@ -14,3 +14,10 @@ Then you need to import it in your main javascript module file by requiring it
 const {ApolloServer, gql} = require('apollo-server');
 ```
 
+Now all you need to do is start your server. this is done as follows
+
+```
+server.listen().then(({url})=>{
+    console.log('server starting at '+url)
+})
+```
