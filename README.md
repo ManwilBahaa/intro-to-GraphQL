@@ -1,5 +1,5 @@
 # Intro to GraphQL
-to get started clone this repo in your local directory and run install the package dependencies
+To get started with <b>this example</b> clone this repo in your local directory and run install the package dependencies
 ```
 npm i
 ```
